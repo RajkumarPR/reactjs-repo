@@ -7,7 +7,6 @@ import Footer from './Footer';
 
 class App extends Component {
   render() {
-    const myName = "Raj Raigonde";
       return (
         <div className="App">
           <Header />
